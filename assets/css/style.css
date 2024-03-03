@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/* changed class to "services" */
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* aside benefits styling */
+/* consolidated to parent "benefits" and child to "benefit"  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
