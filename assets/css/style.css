@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* took out redundant headers */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* consolidated SEO, ORM, and SMM to "services" element and changed class to "service"  */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +120,7 @@ p {
     font-size: 36px;
 }
 
-/*  */
+/*took out redundant classes  */
 footer {
     padding: 30px;
     clear: both;
