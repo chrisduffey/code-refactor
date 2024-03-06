@@ -43,6 +43,10 @@ Experience a On-the-job ticket
 
 **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
+## Usage
+<!-- link to the git hub pages -->
+(https://chrisduffey.github.io/code-refactor/)
+
 
 
 
