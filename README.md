@@ -1,17 +1,34 @@
-# <code-refactor>
+# code-refactor
+
+## Link to deployed website
+<!-- link to the git hub pages -->
+(https://chrisduffey.github.io/code-refactor/)
+
+## Mock-Up
+
+
+(![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](<assets/images/mockup img.png>))
+
+**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
 ## Refactor HTML and CSS for a web deployment
 
-Experience a On-the-job ticket
+Summary
+- Show graders that we can clone our file to our machine and to git hub
+- Our task is to improve the accessibility standards of site
+- Replcing the <div> elements for semantic elements to have a better understanding of the structure of coding
+- Understand flow of coding to make logical structures
+- Add alt attributes that give descriptions to images
+
 -modify code for Horiseon site
-- clone assignment to Git Hub and machine    
-- provide semantic elements
--Manage the flow of the have a logical structure
--Add alt attributes to make site more accessible
--Make sure heading attributes are in order and debug links on site
--Make title element easy to find by web services
--Create a page link for graders to view
--Deploy to the web for graders to see
+- Clone assignment to Git Hub and machine    
+- Provide semantic elements
+- Manage the flow of the have a logical structure
+- Add alt attributes to make site more accessible
+- Make sure heading attributes are in order and debug links on site
+- Make title element easy to find by web services
+- Create a page link for graders to view
+- Deploy to the web for graders to see
 
 
 
@@ -37,15 +54,9 @@ Experience a On-the-job ticket
 * THEN I find a concise, descriptive title
 
 
-## Mock-Up
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](![alt text](<assets/images/mockup img.png>)))
 
-**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
-## Usage
-<!-- link to the git hub pages -->
-(https://chrisduffey.github.io/code-refactor/)
 
 
 
