@@ -18,17 +18,15 @@ Summary
 - Our task is to improve the accessibility standards of site
 - Replcing the <div> elements for semantic elements to have a better understanding of the structure of coding
 - Understand flow of coding to make logical structures
-- Add alt attributes that give descriptions to images
+- Add alt attributes that give descriptions to images for site accessibility
+-Make a page for the graders to view
 
--modify code for Horiseon site
-- Clone assignment to Git Hub and machine    
-- Provide semantic elements
-- Manage the flow of the have a logical structure
-- Add alt attributes to make site more accessible
-- Make sure heading attributes are in order and debug links on site
-- Make title element easy to find by web services
-- Create a page link for graders to view
-- Deploy to the web for graders to see
+What I learned
+- How to properly use git hub to clone files, add, commit, and push
+- the importance of semantic elements and how they time save while coding
+- Understany why structures properly flow
+- purpose for alt attributes for viewers with disabilites 
+- make and deploy a page in git hub
 
 
 
