@@ -1,19 +1,8 @@
 # code-refactor
 
-## Link to deployed website
-<!-- link to the git hub pages -->
-(https://chrisduffey.github.io/code-refactor/)
-
-## Mock-Up
-
-
-(![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](<assets/images/mockup img.png>))
-
-**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
-
 ## Refactor HTML and CSS for a web deployment
 
-Summary
+Description
 - Show graders that we can clone our file to our machine and to git hub
 - Our task is to improve the accessibility standards of site
 - Replcing the <div> elements for semantic elements to have a better understanding of the structure of coding
@@ -51,7 +40,16 @@ What I learned
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
+## Link to deployed website
+<!-- link to the git hub pages -->
+(https://chrisduffey.github.io/code-refactor/)
 
+## Mock-Up
+
+
+(![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](<assets/images/mockup img.png>))
+
+**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
 
 
