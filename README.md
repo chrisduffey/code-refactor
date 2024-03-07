@@ -40,9 +40,13 @@ What I learned
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-## Link to deployed website
+## Usage
 <!-- link to the git hub pages -->
+Github page
 (https://chrisduffey.github.io/code-refactor/)
+
+Repository URL (https://github.com/chrisduffey/code-refactor)
+
 
 ## Mock-Up
 
